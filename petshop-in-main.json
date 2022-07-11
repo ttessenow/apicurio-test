@@ -2,7 +2,7 @@
     "openapi": "3.0.2",
     "info": {
         "title": "my-pet-store",
-        "version": "1.0.100,"
+        "version": "1.0.2",
         "description": "A sample API that uses a petstore as an example to demonstrate features\nin the OpenAPI 3.0 specification",
         "termsOfService": "http://swagger.io/terms/",
         "contact": {
